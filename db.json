@@ -1,0 +1,197 @@
+{
+    "deportistas": [
+        {
+                "id": "1",
+                "name": "Rafael Nadal",
+                "deporte": "Tenis",
+                "imagen": "https://www.ecestaticos.com/imagestatic/clipping/4ca/a6c/4caa6c3eaed0dcb635de57f83b2bc57a/imagen-sin-titulo.jpg?mtime=1548432772",
+                "fecha_nac" : "3/06/1987",
+                "nacionalidad" : "Español",
+				"wiki" : "https://es.wikipedia.org/wiki/Rafael_Nadal", 
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Dos Grand Slam y Un ATP"
+                },{
+                    "año": "2017",
+                    "trofeo": "Un Grand Slam y 3 ATP"
+                }]
+        },
+		 {
+                "id": "2",
+                "name": "Cristiano Ronaldo",
+                "deporte": "Fútbol",
+                "imagen": "https://cdn.20m.es/img2/recortes/2018/10/28/812920-600-338.jpg",
+                "fecha_nac" : "5/02/1986",
+                "nacionalidad" : "Portugues",
+				"wiki" : "https://es.wikipedia.org/wiki/Cristiano_Ronaldo",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de Champions League y Balón de Oro"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de Champions League"
+                }]
+        },
+		 {
+                "id": "3",
+                "name": "Antoine Griezmann",
+                "deporte": "Fútbol",
+                "imagen": "https://www.ecestaticos.com/imagestatic/clipping/da6/dd0/da6dd0c598dd08c4116e024cb55dbdd3/la-superoferta-a-griezmann-del-atletico-para-renovar-20-millones-limpios-al-ano.jpg?mtime=1523290110",
+                "fecha_nac" : "12/07/1998",
+                "nacionalidad" : "Francés",
+				"wiki" : "https://es.wikipedia.org/wiki/Antoine_Griezmann",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de Europa"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de Champions League"
+                }]
+        },
+		 {
+                "id": "4",
+                "name": "Fernando Alonso",
+                "deporte": "Automovilismo",
+                "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/01/27/15485819103862.jpg",
+                "fecha_nac" : "29/07/1981",
+                "nacionalidad" : "Español",
+				"wiki" : "https://es.wikipedia.org/wiki/Fernando_Alonso",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Indy 500"
+                },{
+                    "año": "2017",
+                    "trofeo": "24 horas de lemans"
+                }]
+        },
+		 {
+                "id": "5",
+                "name": "Iker Casillas",
+                "deporte": "Fútbol",
+                "imagen": "https://aws.revistavanityfair.es/prod/designs/v1/assets/785x589/45191.jpg",
+                "fecha_nac" : "20/04/1981",
+                "nacionalidad" : "Español",
+				"wiki" : "https://es.wikipedia.org/wiki/Iker_Casillas",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de Liga"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeon de Copa de Portugal"
+                }]
+        },
+		 {
+                "id": "6",
+                "name": "Roger Fereder",
+                "deporte": "Tenis",
+                "imagen": "https://cdn.images.express.co.uk/img/dynamic/72/590x/Roger-Federer-1078391.jpg?r=1548575998723",
+                "fecha_nac" : "20/08/1981",
+                "nacionalidad" : "Suiza",
+				"wiki" : "https://es.wikipedia.org/wiki/Roger_Federer",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Dos ATP"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeon Wimbeldon"
+                }]
+        },
+		 {
+                "id": "7",
+                "name": "Lebron James",
+                "deporte": "baloncesto",
+                "imagen": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png&w=350&h=254",
+                "fecha_nac" : "30/12/1984",
+                "nacionalidad" : "Estadounidense",
+				"wiki" : "https://es.wikipedia.org/wiki/LeBron_James",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de la NBA"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de la conferencia este"
+                }]
+        },
+		 {
+                "id": "8",
+                "name": "Kobe Bryant",
+                "deporte": "Baloncesto",
+                "imagen": "http://as01.epimg.net/us/imagenes/2018/04/25/masdeporte/1524616355_304063_1524616692_noticia_normal.jpg",
+                "fecha_nac" : "23/08/1978",
+                "nacionalidad" : "Estadounidense",
+				"wiki" : "https://es.wikipedia.org/wiki/Kobe_Bryant",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de la conferencia oeste"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de la NBA"
+                }]
+        },
+		 {
+                "id": "9",
+                "name": "Luka donçic",
+                "deporte": "Baloncesto",
+                "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/12/23/15455696902843.jpg",
+                "fecha_nac" : "28/02/1999",
+                "nacionalidad" : "Eslovenia",
+				"wiki" : "https://es.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón ACB"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeon de copa y ACB"
+                }]
+        },
+		 {
+                "id": "10",
+                "name": "Marco Asensio",
+                "deporte": "Fútbol",
+                "imagen": "https://s5.eestatic.com/2019/01/23/elbernabeu/futbol/Marco_Asensio-Real_Madrid-Solari-Futbol_370723996_112986978_1024x576.jpg",
+                "fecha_nac" : "20/01/1996",
+                "nacionalidad" : "Español",
+				"wiki" : "https://es.wikipedia.org/wiki/Marco_Asensio",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de Europa"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de Europa"
+                }]
+        },
+		 {
+                "id": "11",
+                "name": "Tiger Woods",
+                "deporte": "Golf",
+                "imagen": "https://thenypost.files.wordpress.com/2018/11/tiger-woods2.jpg?quality=90&strip=all&w=618&h=410&crop=1",
+                "fecha_nac" : "30/05/1975",
+                "nacionalidad" : "Estadounidense",
+				"wiki" : "https://es.wikipedia.org/wiki/Tiger_Woods",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón European Tour"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de Master de Augusta"
+                }]
+        },
+		 {
+                "id": "12",
+                "name": "Lionel Messi",
+                "deporte": "Fútbol",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Messi_vs_Nigeria_2018.jpg/245px-Messi_vs_Nigeria_2018.jpg",
+                "fecha_nac" : "24/07/1987",
+                "nacionalidad" : "Argentino",
+				"wiki" : "https://es.wikipedia.org/wiki/Lionel_Messi",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de Liga"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de Copa de España"
+                }]
+        }
+		
+    ]
+}
